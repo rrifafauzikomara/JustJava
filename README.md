@@ -1,3 +1,5 @@
 # Simple-Booking-App
 
-<img src="Screenshot_1.png" width="350" height="622">         <img src="Screenshot_2.png" width="350" height="622">
+<pre>
+<img src="Screenshot_1.png" width="250" height="444">         <img src="Screenshot_2.png" width="250" height="444">
+</pre>
